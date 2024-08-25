@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <html>
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lensabillion&show_icons=true&theme=dark"
@@ -28,4 +31,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=lensabillion&show_icons=true" />
 </picture>
 </html>
--->
+
