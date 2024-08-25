@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <html>
+ <div id="badges">
+  <a href="http://linkedin.com/in/lensa-billion-2290a11a1">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <img src="https://komarev.com/ghpvc/?username=lensabillion&style=flat-square&color=blue" alt=""/>
+</div>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lensabillion&show_icons=true&theme=dark"
