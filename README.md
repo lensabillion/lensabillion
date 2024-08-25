@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <html>
  <div id="badges">
   <a href="http://linkedin.com/in/lensa-billion-2290a11a1">
@@ -38,4 +38,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=lensabillion&show_icons=true" />
 </picture>
 </html>
+-->
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=lensabillion
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lensabillion&theme=dark&background=000000)](https://git.io/streak-stats)
